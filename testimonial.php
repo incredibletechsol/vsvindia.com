@@ -354,7 +354,71 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                   
+                                                    <div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                               <iframe width='500' height='200' src='https://www.youtube.com/embed/MIQEmnUzIA' allowFullScreen='allowFullScreen'></iframe>
+                                                                <blockquote class="text">                                                                    
+                                                            
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">KRUTIKA MAHASABDE</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+													 <div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                               <iframe width='500' height='200' src='https://www.youtube.com/embed/ODZ9yEC6aT0' allowFullScreen='allowFullScreen'></iframe>
+                                                                <blockquote class="text">                                                                    
+                                                            
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">TULJA GORWARDKAR</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+													<div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                               <iframe width='500' height='200' src='https://www.youtube.com/embed/waDl3m3FJVo' allowFullScreen='allowFullScreen'></iframe>
+                                                                <blockquote class="text">                                                                    
+                                                            
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">SANIKA MALPURE</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+													<div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                               <iframe width='500' height='200' src='https://www.youtube.com/embed/ZSfczuwzzYk' allowFullScreen='allowFullScreen'></iframe>
+                                                                <blockquote class="text">                                                                    
+                                                            
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">VIDYA KULKARNI</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+													<div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                               <iframe width='500' height='200' src='https://www.youtube.com/embed/xcHl5-xwOFg' allowFullScreen='allowFullScreen'></iframe>
+                                                                <blockquote class="text">                                                                    
+                                                            
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">JYOTSANA BANERJEE</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div><!-- /.themesflat-carousel-box -->
                                             <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60" data-smobile="60"></div>
