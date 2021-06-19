@@ -56,7 +56,7 @@ height : 250px;
             <!-- Portfolio Area -->
             <div class="portfolio-area bg--grey section-padding--xlg">
                 <div class="container">
-                    <di	v class="row portfolio-gallery-active mt-30-reverse">
+                    <div class="row portfolio-gallery-active mt-30-reverse">
 						<?php
 							include('conn.php');
 							$result = mysqli_query($conn,"SELECT * FROM tbl_gallery order by photoid desc") or die('Query Not Executed');

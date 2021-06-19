@@ -56,6 +56,21 @@
                                            <h2 class="heading">Performances</h2>
 										   <div class="themesflat-carousel-box clearfix" data-gap="30" data-column="3" data-column2="2" data-column3="1" data-auto="true">
                                                 <div class="owl-carousel owl-theme" id="owl-demo">
+												 <div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
+                                                        <div class="testimonial-item">
+                                                            <div class="inner">
+                                                                
+                                                                  <iframe width='500' height='200' src='https://www.youtube.com/embed/Nm1jjFwR-P0' allowFullScreen='allowFullScreen'></iframe>
+                                                        
+                                                                <blockquote class="text">                                                                    
+                                                                  
+                                                                    <div class="name-pos clearfix">
+                                                                        <h6 class="name">A Tribute to Smt.Prafullata Khaty Mam</h6><br><br><br>
+                                                                    </div>
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                     <div class="themesflat-testimonials style-3 align-center has-width w35 circle clearfix">
                                                         <div class="testimonial-item">
                                                             <div class="inner">
